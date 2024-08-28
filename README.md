@@ -1,1 +1,7 @@
-Modificar en la rama nueva-funcionalidad
+<<<<<<< HEAD
+
+=======
+Mi Proyecto
+Añadiendo contenido en la rama nueva-funcionalidad.
+Modificacion en la rama principal.
+>>>>>>> master
